@@ -1,0 +1,148 @@
+{
+  "Friday, Oct 2": [
+    {
+      "time": "9:00 AM",
+      "taken": false
+    },
+    {
+      "time": "10:30 AM",
+      "taken": false
+    },
+    {
+      "time": "1:30 PM",
+      "taken": false
+    },
+    {
+      "time": "3:00 PM",
+      "taken": false
+    },
+    {
+      "time": "4:00 PM",
+      "taken": false
+    }
+  ],
+  "Saturday, Oct 3": [
+    {
+      "time": "9:00 AM",
+      "taken": false
+    },
+    {
+      "time": "10:30 AM",
+      "taken": false
+    },
+    {
+      "time": "12:00 PM",
+      "taken": false
+    }
+  ],
+  "Monday, Oct 5": [
+    {
+      "time": "9:00 AM",
+      "taken": false
+    },
+    {
+      "time": "10:30 AM",
+      "taken": false
+    },
+    {
+      "time": "1:30 PM",
+      "taken": false
+    },
+    {
+      "time": "3:00 PM",
+      "taken": false
+    },
+    {
+      "time": "4:00 PM",
+      "taken": false
+    }
+  ],
+  "Tuesday, Oct 6": [
+    {
+      "time": "9:00 AM",
+      "taken": false
+    },
+    {
+      "time": "10:30 AM",
+      "taken": false
+    },
+    {
+      "time": "1:30 PM",
+      "taken": false
+    },
+    {
+      "time": "3:00 PM",
+      "taken": false
+    },
+    {
+      "time": "4:00 PM",
+      "taken": false
+    }
+  ],
+  "Wednesday, Oct 7": [
+    {
+      "time": "9:00 AM",
+      "taken": false
+    },
+    {
+      "time": "10:30 AM",
+      "taken": false
+    },
+    {
+      "time": "1:30 PM",
+      "taken": false
+    },
+    {
+      "time": "3:00 PM",
+      "taken": false
+    },
+    {
+      "time": "4:00 PM",
+      "taken": false
+    }
+  ],
+  "Thursday, Oct 8": [
+    {
+      "time": "9:00 AM",
+      "taken": false
+    },
+    {
+      "time": "10:30 AM",
+      "taken": false
+    },
+    {
+      "time": "1:30 PM",
+      "taken": false
+    },
+    {
+      "time": "3:00 PM",
+      "taken": false
+    },
+    {
+      "time": "4:00 PM",
+      "taken": false
+    }
+  ],
+  "Friday, Oct 9": [
+    {
+      "time": "9:00 AM",
+      "taken": false
+    },
+    {
+      "time": "10:30 AM",
+      "taken": false
+    },
+    {
+      "time": "1:30 PM",
+      "taken": false
+    },
+    {
+      "time": "3:00 PM",
+      "taken": false
+    },
+    {
+      "time": "4:00 PM",
+      "taken": false
+    }
+  ]
+}
